@@ -13,7 +13,7 @@
 
 - 👯 Estou colaborando com [App Estuda] (https://gitlab.com/grupoestuda/estuda_app_aluno)
 
-- 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/gonzagajaque](https://github.com / gonzagajaque)
+- 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/gonzagajaque]
 
 - 💬 Pergunte-me sobre ** html, css, react-native, javascript **
 
