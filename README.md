@@ -7,7 +7,7 @@
   <img src = "https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt = "gonzagajaque" />
 </p>
 
-- 🔭 Atualmente trabalhando em [GamePlay] (https: // github .com / gonzagajaque / gameplay1)
+- 🔭 Atualmente trabalhando em [GamePlay] (https://github.com/gonzagajaque/gameplay1)
 
 - 🌱 Atualmente estou aprendendo ** Javascript, React Native e Typescript **
 
