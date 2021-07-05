@@ -1,8 +1,8 @@
 <h1 align = "center"> Olá 👋, Me chamo Jaqueline Gonzaga! </h1>
 <h3 align = "center"> Uma desenvolvedora mobile apaixonada do Brasil </h3>
 
-<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif">
-
+<img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" "align="middle">
+                                                                                     
 <p align = "left"> <img src = "https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt = "gonzagajaque" /> </p>
 
 - 🔭 Atualmente trabalhando em [GamePlay] (https: // github .com / gonzagajaque / gameplay1)
@@ -11,7 +11,7 @@
 
 - 👯 Estou colaborando com [App Estuda] (https://gitlab.com/grupoestuda/estuda_app_aluno)
 
-- 👨‍💻 meus Todos projetos estão disponíveis em [https://github.com/gonzagajaque](https://github.com / gonzagajaque)
+- 👨‍💻 Todos meus projetos estão disponíveis em [https://github.com/gonzagajaque](https://github.com / gonzagajaque)
 
 - 💬 Pergunte-me sobre ** html, css, react-native, javascript **
 
