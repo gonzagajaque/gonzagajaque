@@ -7,13 +7,13 @@
 
 - 🔭 Atualmente estou trabalhando em [GamePlay](https://github.com/gonzagajaque/gameplay1)
 
-- 🌱 Atualmente estou aprendendo **Javascript, React Native e Typescript**
+- 🌱 Estou aprendendo **Javascript, React Native e Typescript**
 
 - 👯 Estou colaborando com [App Estuda](https://gitlab.com/grupoestuda/estuda_app_aluno)
 
 - 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/gonzagajaque](https://github.com/gonzagajaque)
 
-- 💬 Pergunte-me sobre **html, css, react-native, javascript**
+- 💬 Pergunte-me sobre **HTML, CSS, React-Native, Javascript**
 
 - 📫 Como me contatar? **jaquelinesgonzaga@gmail.com**
 
