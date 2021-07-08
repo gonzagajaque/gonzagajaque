@@ -3,7 +3,7 @@
 
 <p align = "center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
 
 - 🔭 Atualmente estou trabalhando em [GamePlay](https://github.com/gonzagajaque/gameplay1)
 
