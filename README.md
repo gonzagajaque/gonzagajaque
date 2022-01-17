@@ -5,15 +5,13 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
 
-- 🔭 Atualmente estou trabalhando em [GamePlay](https://github.com/gonzagajaque/gameplay1)
-
-- 🌱 Estou aprendendo **Javascript, React Native e Typescript**
+- 🌱 Estou trabalhando com **Javascript, React Native e Typescript**
 
 - 👯 Estou colaborando com [App Estuda](https://gitlab.com/grupoestuda/estuda_app_aluno)
 
 - 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/gonzagajaque](https://github.com/gonzagajaque)
 
-- 💬 Pergunte-me sobre **HTML, CSS, React-Native, Javascript**
+- 💬 Pergunte-me sobre **HTML, CSS, React-Native, Javascript, Typescript, Redux, Nodejs, Git**
 
 - 📫 Como me contatar? **jaquelinesgonzaga@gmail.com**
 
