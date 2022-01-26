@@ -1,4 +1,4 @@
-<h1 align = "center"> Olá 👋, Me chamo Jaqueline Gonzaga! </h1>
+<h1 align = "center"> Olá 👋, me chamo Jaqueline Gonzaga! </h1>
 <h3 align = "center"> Uma desenvolvedora mobile apaixonada </h3>
 
 <p align = "center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </p>
