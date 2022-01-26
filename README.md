@@ -21,7 +21,6 @@
 <p align="center">
 <a href="https://codepen.io/gonzagajaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="gonzagajaque" height="30" width="40" /></a>
 <a href="https://dev.to/gonzagajaque" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="gonzagajaque" height="30" width="40" /></a>
-<a href="https://twitter.com/jaquepontotsx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jaquepontotsx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gonzagajaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gonzagajaque" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/jaqueline-gonzaga" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="jaqueline-gonzaga" height="30" width="40" /></a>
 <a href="https://fb.com/gonzagajaque" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="gonzagajaque" height="30" width="40" /></a>
