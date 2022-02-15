@@ -7,7 +7,7 @@
 
 🌱 Estou trabalhando com **Javascript, React Native e Typescript**
 
-👯 Estou colaborando com [App Estuda](https://gitlab.com/grupoestuda/estuda_app_aluno)
+👯 Estou colaborando com [Ampara Pet](https://github.com/gonzagajaque/app_ampara_pet)
 
 👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/gonzagajaque](https://github.com/gonzagajaque)
 
