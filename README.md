@@ -9,7 +9,7 @@
 
 👯 Estou colaborando com [Ampara Pet](https://github.com/gonzagajaque/app_ampara_pet)
 
-👨‍💻 Todos meus projetos estão disponiveis em [https://github.com/gonzagajaque](https://github.com/gonzagajaque)
+👨‍💻 Todos meus projetos estão disponiveis [aqui](https://github.com/gonzagajaque?tab=repositories)
 
 💬 Pergunte-me sobre **HTML, CSS, React-Native, Javascript, Typescript, Redux, Nodejs, Git**
 
