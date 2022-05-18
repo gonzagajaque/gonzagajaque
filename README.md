@@ -36,10 +36,4 @@
   <a href="https://dart.dev/guides" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" alt="dart" width="40" height="40" /> </a>
 </p>
 
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzagajaque&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gonzagajaque&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</p>
-
 ![Snake animation](https://github.com/gonzagajaque/gonzagajaque/blob/output/github-contribution-grid-snake.svg)
