@@ -7,11 +7,7 @@
 
 <p align="center"> 🌱 Estou trabalhando com **Javascript, React Native e Typescript** </p>
 
-<p align="center"> 👯 Estou colaborando com [Ampara Pet](https://github.com/gonzagajaque/app_ampara_pet) </p>
-
 <p align="center"> 👨‍💻 Todos meus projetos estão disponiveis [aqui](https://github.com/gonzagajaque?tab=repositories) </p>
-
-<p align="center"> 💬 Pergunte-me sobre **HTML, CSS, React-Native, Javascript, Typescript, Redux, Nodejs, Git** </p>
 
 <p align="center"> 📫 Como me contatar? **jaquelinesgonzaga@gmail.com** </p>
 
