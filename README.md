@@ -24,7 +24,3 @@
   <a href="https://flutter.dev/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/9f4f5cdb393299a81125eb5127929ea7bfe42889/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a>
   <a href="https://dart.dev/guides" target="_blank"> <img src="https://iconape.com/wp-content/files/vp/55059/svg/dart.svg" alt="dart" width="40" height="40" /> </a>
 </p>
-
-
-
-![Snake animation](https://github.com/gonzagajaque/gonzagajaque/blob/output/github-contribution-grid-snake.svg)
