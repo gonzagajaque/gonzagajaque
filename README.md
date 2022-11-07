@@ -5,7 +5,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
 
-<p align="center"> 🌱 Estou trabalhando com Javascript, React Native e Typescript </p>
+<p align="center"> 🌱 Estou trabalhando com React Native </p>
 
 <p align="center"> 📫 Como me contatar? jaquelinesgonzaga@gmail.com </p>
 
