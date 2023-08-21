@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, me chamo Jaqueline Gonzaga! </h1>
 <h3 align = "center"> Uma desenvolvedora mobile apaixonada </h3>
 
-<p align = "center"> <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" /> </p>
+![octocat-1692662092262](https://github.com/gonzagajaque/gonzagajaque/assets/82250199/77d3c0e9-c481-4f45-8a90-40d196eab276)
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
 
