@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Hi there!, I'm Jaqueline Gonzaga, Mobile Development Specialist! </h1>
+<h1 align="center"> 👋 Hi there! I'm Jaqueline Gonzaga, Mobile Development Specialist! </h1>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gonzagajaque&label=Profile%20views&color=0e75b6&style=flat" alt="gonzagajaque" /> </p>
 
 <div align="left">
