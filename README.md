@@ -18,7 +18,6 @@
 <div align="center">
   <img src="https://github.com/gonzagajaque/gonzagajaque/assets/82250199/77d3c0e9-c481-4f45-8a90-40d196eab276" alt="octocat-1692662092262" width="200" />
   <img src="https://streak-stats.demolab.com?user=gonzagajaque&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzagajaque&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="180" alt="Most Used Languages" />
 </div>
 
 ###
